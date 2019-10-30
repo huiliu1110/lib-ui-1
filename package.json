@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/haleyhuiliu/lib-ui-1#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
     "css-loader": "^3.2.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
